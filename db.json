@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Yash Jagtap",
+      "email": "yashjagtap918@gmail.com"
+    },
+    {
+      "name": "mehul joshi",
+      "email": "mehuljoshi69@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "vijay sharma",
+      "email": "vijaysharma97@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Ajinkya Teltumde",
+      "email": "ajinkyateltumde21@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Ved Wakde",
+      "email": "vedwakde23@gmail.com",
+      "id": 6
+    }
+  ]
+}
